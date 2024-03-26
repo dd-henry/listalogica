@@ -1,3 +1,5 @@
+
+//2. Sabendo que A=3, B=7 e C=4, informe se as expressões abaixo são verdadeiras ou falsas.
 public class Exercicio2 {
     public static void main(String[] args){
         int A, B, C;
