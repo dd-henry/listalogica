@@ -11,7 +11,7 @@ public class Exercicio1 {
 
         Salario = Double.parseDouble(JOptionPane.showInputDialog("Digite seu salário"));
 
-        Taxa = 0.10;
+        Taxa = 0.05;
         Ir = Salario * Taxa;
         Salliq = Salario - Ir;
 
