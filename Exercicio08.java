@@ -2,7 +2,7 @@
 import java.util.Scanner;
 /*8. Fazer um programa que recebe três notas e seus respectivos pesos, 
 calcule e mostra a média ponderada dessas notas.  */
-public class Exercicio8 {
+public class Exercicio08 {
     public static void main(String[] args) {
                 double nota1, nota2, nota3, peso1, peso2, peso3, media;
         Scanner sc = new Scanner(System.in);

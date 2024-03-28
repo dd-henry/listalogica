@@ -1,6 +1,6 @@
 
 //2. Sabendo que A=3, B=7 e C=4, informe se as expressões abaixo são verdadeiras ou falsas.
-public class Exercicio2 {
+public class Exercicio02 {
     public static void main(String[] args){
         int A, B, C;
         boolean Q1, Q2, Q3, Q4, Q5;

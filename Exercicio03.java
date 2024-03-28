@@ -1,6 +1,6 @@
 
 //3. Sabendo que A=5, B=4, C=3 e D=6, informe se as expressões abaixo são verdadeiras ou falsas.
-public class Exercicio3 {
+public class Exercicio03 {
     public static void main(String[] args){
         int A, B, C, D;
         boolean Q1, Q2, Q3;

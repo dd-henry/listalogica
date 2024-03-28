@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 /*6. Fazer um programa que recebe três números inteiros, calcula e mostra a soma desses 
 números.
 */
-public class Exercicio6 {
+public class Exercicio06 {
     public static void main(String[] args) {
         int NumeroUm, NumeroDois, NumeroTres;
         NumeroUm = Integer.parseInt(JOptionPane.showInputDialog("Digite um número"));

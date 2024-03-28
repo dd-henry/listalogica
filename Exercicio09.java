@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
  rendimento e o valor total depois do rendimento.  */
 
 
-public class Exercicio9 {
+public class Exercicio09 {
     public static void main(String[] args) {
         double valorDeposito, valorJuros;
         valorDeposito = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor do deposito: "));

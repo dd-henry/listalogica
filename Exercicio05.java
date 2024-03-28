@@ -8,7 +8,7 @@ utilizando as seguintes fórmulas:
                         Para mulheres: (62.1*h) - 44.7 (h = altura) 
 */
 
-public class Exercicio5 {
+public class Exercicio05 {
     public static void main(String[] args){
         double pesoideal, altura;
         String[] options = {"Masculino", "Feminino"};//lista para as opções que serão dadas no JOptionPane

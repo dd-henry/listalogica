@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 
 //1. Tendo as variáveis SALARIO, IR e SALLIQ, e considerando os valores abaixo. Informe se as expressões são verdadeiras ou falsas.
 
-public class Exercicio1 {
+public class Exercicio01 {
     public static void main(String[] args) {
         Double Ir, Salario, Salliq, Taxa;
 
